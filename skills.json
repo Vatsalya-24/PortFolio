@@ -1,0 +1,76 @@
+ [
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/color/48/000000/sql.png"
+    },
+    {
+        "name": "Data Structures",
+        "icon": "assets//images//DataS.ico"
+    },
+    {
+        "name": "Algorithms",
+        "icon": "assets//images//algotithm.ico"
+    },
+    {
+        "name": "DBMS",
+        "icon": "https://img.icons8.com/color/48/000000/database.png"
+    },
+    {
+        "name": "Operating System",
+        "icon": "https://img.icons8.com/color/48/000000/linux.png"
+    },
+    {
+        "name": "Object Oriented Programming",
+        "icon": "https://img.icons8.com/color/48/000000/code.png"
+    },
+    {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/color/48/000000/artificial-intelligence.png"
+    },
+    {
+        "name": "Computer Vision",
+        "icon": "assets//images//cv.ico"
+    },
+    {
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/color/48/000000/spring-logo.png"
+    },
+    {
+        "name": "Hibernate",
+        "icon": "https://img.icons8.com/color/48/000000/hibernate.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Windows",
+        "icon": "https://img.icons8.com/color/48/000000/windows-10.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/color/48/000000/linux.png"
+    }
+]
+
+
